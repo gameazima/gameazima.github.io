@@ -1780,7 +1780,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #28262b;
+  color: #b1a374;
 }
 .cid-qHi2c37hV7 .period {
   display: block;
@@ -1802,7 +1802,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #28262b;
+  color: #b1a374;
 }
 .cid-qHi2c37hV7 .countdown-cont {
   max-width: 700px;
@@ -1837,6 +1837,9 @@ body {
   .cid-qHi2c37hV7 .period {
     font-size: 0.8rem;
   }
+}
+.cid-qHi2c37hV7 I {
+  color: #c4bc3b;
 }
 .cid-qHbD9tEX8z {
   padding-top: 45px;
