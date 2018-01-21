@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GameAzima Tv",
-    "currentPage": "page2.html",
+    "currentPage": "home.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 37,
     "versionPublish": "4.6.1",
@@ -1121,7 +1121,7 @@
         }
       ]
     },
-    "page2.html": {
+    "dowloand.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Dowloand",
