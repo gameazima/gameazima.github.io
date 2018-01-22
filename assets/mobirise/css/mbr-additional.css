@@ -2702,3 +2702,21 @@ body {
 .cid-qHbD9onQjL .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qHoS73CAVX H1 {
+  text-align: center;
+}
+.cid-qHsFxjvGbW {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #f4a997, #a09fc0);
+}
+@media (min-width: 992px) {
+  .cid-qHsFxjvGbW .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qHsFxjvGbW .mbr-figure {
+    padding-top: 3rem;
+  }
+}
