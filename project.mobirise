@@ -1026,6 +1026,9 @@
             },
             "I": {
               "color": "#c4bc3b"
+            },
+            "B": {
+              "color": "#787324"
             }
           },
           "_name": "countdown1",
